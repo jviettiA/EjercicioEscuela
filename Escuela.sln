@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escuela", "Escuela\Escuela.csproj", "{504A4E87-F2AB-4F48-8AB6-DC9E0E73B2F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscuelaForm", "EscuelaForm\EscuelaForm.csproj", "{A943F462-16C6-4913-AD6D-C122300EF2AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{504A4E87-F2AB-4F48-8AB6-DC9E0E73B2F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504A4E87-F2AB-4F48-8AB6-DC9E0E73B2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504A4E87-F2AB-4F48-8AB6-DC9E0E73B2F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504A4E87-F2AB-4F48-8AB6-DC9E0E73B2F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A943F462-16C6-4913-AD6D-C122300EF2AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A943F462-16C6-4913-AD6D-C122300EF2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A943F462-16C6-4913-AD6D-C122300EF2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A943F462-16C6-4913-AD6D-C122300EF2AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9F9EE42-5CF1-4EF2-9CA9-CA51D37B282C}
+	EndGlobalSection
+EndGlobal

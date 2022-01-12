@@ -1,0 +1,6 @@
+C:\Users\JVIETTI\source\repos\Escuela\Escuela\bin\Debug\Escuela.dll
+C:\Users\JVIETTI\source\repos\Escuela\Escuela\bin\Debug\Escuela.pdb
+C:\Users\JVIETTI\source\repos\Escuela\Escuela\obj\Debug\Escuela.csproj.AssemblyReference.cache
+C:\Users\JVIETTI\source\repos\Escuela\Escuela\obj\Debug\Escuela.csproj.CoreCompileInputs.cache
+C:\Users\JVIETTI\source\repos\Escuela\Escuela\obj\Debug\Escuela.dll
+C:\Users\JVIETTI\source\repos\Escuela\Escuela\obj\Debug\Escuela.pdb

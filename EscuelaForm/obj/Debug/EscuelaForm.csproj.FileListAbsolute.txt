@@ -1,0 +1,15 @@
+C:\Users\JVIETTI\source\repos\Escuela\EscuelaForm\bin\Debug\EscuelaForm.exe.config
+C:\Users\JVIETTI\source\repos\Escuela\EscuelaForm\bin\Debug\EscuelaForm.exe
+C:\Users\JVIETTI\source\repos\Escuela\EscuelaForm\bin\Debug\EscuelaForm.pdb
+C:\Users\JVIETTI\source\repos\Escuela\EscuelaForm\bin\Debug\Escuela.dll
+C:\Users\JVIETTI\source\repos\Escuela\EscuelaForm\bin\Debug\Escuela.pdb
+C:\Users\JVIETTI\source\repos\Escuela\EscuelaForm\obj\Debug\EscuelaForm.csproj.AssemblyReference.cache
+C:\Users\JVIETTI\source\repos\Escuela\EscuelaForm\obj\Debug\EscuelaForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\JVIETTI\source\repos\Escuela\EscuelaForm\obj\Debug\EscuelaForm.Properties.Resources.resources
+C:\Users\JVIETTI\source\repos\Escuela\EscuelaForm\obj\Debug\EscuelaForm.csproj.GenerateResource.cache
+C:\Users\JVIETTI\source\repos\Escuela\EscuelaForm\obj\Debug\EscuelaForm.csproj.CoreCompileInputs.cache
+C:\Users\JVIETTI\source\repos\Escuela\EscuelaForm\obj\Debug\EscuelaForm.csproj.CopyComplete
+C:\Users\JVIETTI\source\repos\Escuela\EscuelaForm\obj\Debug\EscuelaForm.exe
+C:\Users\JVIETTI\source\repos\Escuela\EscuelaForm\obj\Debug\EscuelaForm.pdb
+C:\Users\JVIETTI\source\repos\Escuela\EscuelaForm\obj\Debug\EscuelaForm.FormProf.resources
+C:\Users\JVIETTI\source\repos\Escuela\EscuelaForm\obj\Debug\EscuelaForm.FormAlumno.resources
